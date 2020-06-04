@@ -1,0 +1,23 @@
+git init --- initialize repository
+
+git add text.txt -- add files
+git add -A -- all files to be added
+
+git commit -m --commit the files
+git commit -a -m ---commit all the files
+
+git branch branchname --crate branch
+git checkout branchname -- changing the branch
+
+git rm -r filename
+
+git status
+git log
+
+git merge branchname
+
+
+git push origin master
+git push origin --delete branchname
+
+git pull origin master
